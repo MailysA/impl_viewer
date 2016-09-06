@@ -1,1 +1,1 @@
-# impl_viewer
+A simple viewer for image and pdf file write with: bootsrap, angular and pdf.js
